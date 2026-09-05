@@ -1,2 +1,2 @@
 # Optional CI/browser-test dependency. No Python/Node dependencies at app runtime.
-playwright==1.57.0
+playwright==1.62.0
